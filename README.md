@@ -36,13 +36,6 @@ Column ID: Unique identifier for each sample
 - How reliable is the anomaly detection system?
 - What sensor features are most important for classification?
 
-## 📈 Success Metrics
-
-- **Clustering Quality**: Silhouette score, Davies-Bouldin index
-- **Anomaly Detection**: Precision, recall, F1-score
-- **Model Interpretability**: Clear explanation of discovered patterns
-- **Robustness**: Performance on unseen data
-
 ## 📝 Notes
 
 - The sensor data represents real IoT measurements from a Raspberry Pi 5
