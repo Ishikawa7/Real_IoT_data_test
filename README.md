@@ -45,7 +45,7 @@ Column ID: Unique identifier for each sample
 
 ## 🏷️ Tags
 
-`IoT` `Machine Learning` `Self-Supervised Learning` `Anomaly Detection` `Raspberry Pi` `Sensor Data` `Clustering` `Unsupervised Learning` `Data Science`
+`IoT` `Machine Learning` `Self-Supervised Learning` `Anomaly Detection` `Raspberry Pi` `Sensor Data` `Unsupervised Learning` `Data Science`
 
 ---
 
